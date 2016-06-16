@@ -5,4 +5,4 @@ Pepper & Carrot is based on the characters and world of Hereva created by David 
 
 ## The system
 
-The Pepper & Carrot RPG uses the Fate role playing system.
+The Pepper & Carrot RPG uses the Fate role playing system. 
