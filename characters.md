@@ -26,5 +26,5 @@ Pepper is a 14 year old orphan girl. She lives in the forests outside of the sma
 ### Stunts:
 
 
-* Because I am a True Witch of Chaosah I get +2 when I *Forcefully create advantages* when *I intimidate someone*.
-* Because I *create too many potions* once per game session I can *find the right potion at the right time*.
+* Because I am a True Witch of Chaosah I get +2 when I **Forcefully attack** when **I intimidate someone**.
+* Because I **create too many potions** once per game session I can **find the right potion at the right time**.
