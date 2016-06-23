@@ -25,6 +25,35 @@ Pepper is a 14 year old orphan girl. She lives in the forests outside of the sma
 
 ### Stunts:
 
-
-* Because I am a True Witch of Chaosah I get +2 when I **Forcefully attack** when **I intimidate someone**.
+* Because I am a **Witch of Chaosah** I get +2 when I **Forcefully attack** when **I intimidate someone**.
 * Because I **create too many potions** once per game session I can **find the right potion at the right time**.
+
+## Thyme
+
+Thyme is the oldest of the remaining witches of Chaosah.
+
+### Aspects:
+
+#### High Concept:
+
+"Lead witch of Chaosah"
+
+#### Trouble:
+
+"Aching joints and back"
+
+### Approaches:
+
+* Careful: +2 Fair
+* Clever: +2 Fair
+* Flashy: +1 Average
+* Forceful: +1 Average
+* Quick: +0 Mediocre
+* Sneaky: +3 Good
+
+### Stunts:
+
+* Because I am the **Leader of Chaosah** I get +2 when I **Forcefully attack** when **I intimidate someone**.
+* Because I am **Elderly** once per game session I can **remember lore**.
+
+
