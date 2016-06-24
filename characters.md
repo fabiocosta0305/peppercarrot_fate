@@ -25,7 +25,7 @@ Pepper is a 14 year old orphan girl. She lives in the forests outside of the sma
 
 ### Stunts:
 
-* Because I am a **Witch of Chaosah** I get +2 when I **Forcefully attack** when **I intimidate someone**.
+* Because I **set traps near my house** I get +2 when I **Sneakily Create Advantages** to intruders in the forest of Squirrel's end.
 * Because I **create too many potions** once per game session I can **find the right potion at the right time**.
 
 ## Thyme
@@ -53,7 +53,34 @@ Thyme is the oldest of the remaining witches of Chaosah.
 
 ### Stunts:
 
-* Because I am the **Leader of Chaosah** I get +2 when I **Forcefully attack** when **I intimidate someone**.
-* Because I am **Elderly** once per game session I can **remember lore**.
+* Because I am **An elderly witch of Chaosah** I get +2 when I **Cleverly Create Advantages** when it relates to Chaosah or the history of Hereva.
+* Because I am the **Leader of Chaosah** once per game session I can **intimidate someone who is afraid of Chaosah**.
 
+## Cayenne
+
+Cayenne is a grim enforcer for Chaosah, and one of Pepper's Godmothers.
+
+### Aspects:
+
+#### High Concept:
+
+"Enforcer of Chaosah"
+
+#### Trouble:
+
+"Quick Temper"
+
+### Approaches:
+
+* Careful: +2 Fair
+* Clever: +1 Average
+* Flashy: +2 Fair
+* Forceful: +3 Great
+* Quick: +1 Average
+* Sneaky: +0 Mediocre
+
+### Stunts:
+
+* Because I am a **spell teacher of Chaosah** I get +2 when I **Carefully Overcome Obstacles** when someone has trouble with a spell.
+* Because I am a **True Witch of Chaosah** once per session I can **intimidate someone who is afraid of Chaosah**.
 
