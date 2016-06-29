@@ -25,7 +25,7 @@ Pepper is a 14 year old orphan girl. She lives in the forests outside of the sma
 
 ### Stunts:
 
-* Because I **set traps near my house** I get +2 when I **Sneakily Create Advantages** to intruders in the forest of Squirrel's end.
+* Because I **set traps near my house** I get +2 when I **Sneakily Create Advantages** when **dealing with  intruders in the forest of Squirrel's end**.
 * Because I **create too many potions** once per game session I can **find the right potion at the right time**.
 
 ## Thyme
@@ -53,12 +53,12 @@ Thyme is the oldest of the remaining witches of Chaosah.
 
 ### Stunts:
 
-* Because I am **An elderly witch of Chaosah** I get +2 when I **Cleverly Create Advantages** when it relates to Chaosah or the history of Hereva.
+* Because I am **An elderly witch of Chaosah** I get +2 when I **Cleverly Create Advantages** when **it relates to Chaosah or the history of Hereva**.
 * Because I am the **Leader of Chaosah** once per game session I can **intimidate someone who is afraid of Chaosah**.
 
 ## Cayenne
 
-Cayenne is a grim enforcer for Chaosah, and one of Pepper's Godmothers.
+Cayenne is a grim enforcer for Chaosah and one of Pepper's Godmothers.
 
 ### Aspects:
 
@@ -81,6 +81,33 @@ Cayenne is a grim enforcer for Chaosah, and one of Pepper's Godmothers.
 
 ### Stunts:
 
-* Because I am a **spell teacher of Chaosah** I get +2 when I **Carefully Overcome Obstacles** when someone has trouble with a spell.
+* Because I am a **spell teacher of Chaosah** I get +2 when I **Carefully Overcome Obstacles** when **someone has trouble with a spell**.
 * Because I am a **True Witch of Chaosah** once per session I can **intimidate someone who is afraid of Chaosah**.
 
+## Cumin
+
+Cumin is the teacher of potions for Chaosah and one of Pepper's Godmothers. She is the protégé of Thyme (which Thyme won't let Cumin forget with her constant bossing and nagging). 
+
+### Aspects:
+
+#### High Concept:
+
+Potions Teacher of Chaosah 
+
+#### Trouble:
+
+Thyme's Protégé
+
+### Approaches:
+
+* Careful: +3 Great
+* Clever: +1 Average
+* Flashy: +2 Fair
+* Forceful: +0 Mediocre
+* Quick: +1 Average
+* Sneaky: +2 Fair
+
+### Stunts:
+
+* Because I am a **potions teacher of Chaosah** I get +2 when I **Quickly Create Advantages** when **creating potions**.
+* Because I am a **True Witch of Chaosah** once per session I can **intimidate someone who is afraid of Chaosah**.
