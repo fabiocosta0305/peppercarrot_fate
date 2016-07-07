@@ -111,3 +111,33 @@ Thyme's Protégé
 
 * Because I am a **potions teacher of Chaosah** I get +2 when I **Quickly Create Advantages** when **creating potions**.
 * Because I am a **True Witch of Chaosah** once per session I can **intimidate someone who is afraid of Chaosah**.
+
+## Saffron
+
+Saffron is a 14 year old girl from the floating city of Komona. She showed aptitude for magic at an early age, and after showing how easy it was to use magic to counterfeit Ko she was sent to the Magmah school to put her skills to good use. She runs a magic service "Saffron's Witchcraft" in the highest-rent districts of Komona. Her primary clientèle ranges from merchants looking to improve their wares and the alchemists of Zombiah researching materials. Saffron's business thrives; so much so that a steady queue of people form outside of her office looking for her advice. Even the Ko mint looked to her to see how best to improve the Ko coins so they were harder to counterfeit. She has risen to prominence as one of the youngest entrepreneurs of Komona.
+
+### Aspects:
+
+#### High Concept:
+
+Young Entrepreneurial witch of Magmah
+
+#### Trouble:
+
+"I want it and I want it now"
+
+### Approaches:
+
+* Careful: +1 Average
+* Clever: +2 Fair
+* Flashy: +3 Great
+* Forceful: +2 Fair
+* Quick: +1 Average
+* Sneaky: +0 Mediocre
+
+### Stunts:
+
+* Because I am a **witch of Magmah** I get +2 when I **Forcefully Overcome Obstacles** when **working with materials and matter**.
+* Because I **own a popular magic consulting business** once per game session I can **divulge a hidden truth about one of my clients**.
+
+
