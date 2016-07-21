@@ -14,6 +14,10 @@ Pepper is a 14 year old orphan girl. She lives in the forests outside of the sma
 
 "Never enough Ko"
 
+#### Other Aspects:
+
+"Witch of Chaosah"
+
 ### Approaches:
 
 * Careful: +0 Mediocre
@@ -41,6 +45,10 @@ Thyme is the oldest of the remaining witches of Chaosah.
 #### Trouble:
 
 "Aching joints and back"
+
+#### Other Aspects:
+
+"Witch of Chaosah"
 
 ### Approaches:
 
@@ -70,6 +78,10 @@ Cayenne is a grim enforcer for Chaosah and one of Pepper's Godmothers.
 
 "Quick Temper"
 
+#### Other Aspects:
+
+"Witch of Chaosah"
+
 ### Approaches:
 
 * Careful: +2 Fair
@@ -97,6 +109,10 @@ Potions Teacher of Chaosah
 #### Trouble:
 
 Thyme's Protégé
+
+#### Other Aspects:
+
+"Witch of Chaosah"
 
 ### Approaches:
 
@@ -126,6 +142,10 @@ Young Entrepreneurial witch of Magmah
 
 "I want it and I want it now"
 
+#### Other Aspects:
+
+"Witch of Magmah"
+
 ### Approaches:
 
 * Careful: +1 Average
@@ -140,4 +160,34 @@ Young Entrepreneurial witch of Magmah
 * Because I am a **witch of Magmah** I get +2 when I **Forcefully Overcome Obstacles** when **working with materials and matter**.
 * Because I **own a popular magic consulting business** once per game session I can **divulge a hidden truth about one of my clients**.
 
+## Coriander
 
+Coriander is a 14 year girl from the engineering city of Qualicity. She is a witch of Zombiah, a magic school known for its ability to bind the spirit to non-living matter. This is used both in reanimating previously living beings as well as animating mechanical beings. Being an only child she quickly got bored and created herself a "sister" called Mensi. Her father is the king of Qualicity, and constantly lavishes Coriander with whatever she wants. Her interests lie more in making things rather than re-animating non-living beings, and she can be found working on her pet projects; crafting new and ingenious inventions.
+
+### Aspects:
+
+#### High Concept:
+
+"I can make it better"
+
+#### Trouble:
+
+"Overprotective Father"
+
+#### Other Aspects:
+
+"Witch of Zombiah"
+
+### Approaches:
+
+* Careful: +3 Great
+* Clever: +2 Fair
+* Flashy: +1 Average
+* Forceful: +1 Average
+* Quick: +2 Fair
+* Sneaky: +0 Mediocre
+
+### Stunts:
+
+* Because I am a **witch of Zombiah** I get +2 when I **Forcibly Create Advantages** when **animating and re-animating non-living beings**.
+* Because I am a **princess of Qualicity** once per game session I can **summon a mechanical construct**.
