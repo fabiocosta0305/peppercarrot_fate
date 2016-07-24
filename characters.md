@@ -130,7 +130,7 @@ Thyme's Protégé
 
 ## Saffron
 
-Saffron is a 14 year old girl from the floating city of Komona. She showed aptitude for magic at an early age, and after showing how easy it was to use magic to counterfeit Ko she was sent to the Magmah school to put her skills to good use. She runs a magic service "Saffron's Witchcraft" in the highest-rent districts of Komona. Her primary clientèle ranges from merchants looking to improve their wares and the alchemists of Zombiah researching materials. Saffron's business thrives; so much so that a steady queue of people form outside of her office looking for her advice. Even the Ko mint looked to her to see how best to improve the Ko coins so they were harder to counterfeit. She has risen to prominence as one of the youngest entrepreneurs of Komona.
+Saffron is a 14 year old girl from the floating city of Komona. She showed aptitude for magic at an early age, and after showing how easy it was to use magic to counterfeit Ko she was sent to the Magmah school to put her skills to good use. She runs a magic service "Saffron's Witchcraft" in the highest-rent districts of Komona. Her primary clientèle ranges from merchants looking to improve their wares and the alchemists of Zombiah researching materials. Saffron's business thrives; so much so that a steady queue of people form outside of her office looking for her advice. Even the Komonan mint looked to her to see how best to improve the Ko coins so they were harder to counterfeit. She has risen to prominence as one of the youngest entrepreneurs of Komona. The merchants of Komona are more than happy for Saffron's custom, as she tends to make large purchases of ingredients for her various potions and spells.
 
 ### Aspects:
 
@@ -191,3 +191,7 @@ Coriander is a 14 year girl from the engineering city of Qualicity. She is a wit
 
 * Because I am a **witch of Zombiah** I get +2 when I **Forcibly Create Advantages** when **animating and re-animating non-living beings**.
 * Because I am a **princess of Qualicity** once per game session I can **summon a mechanical construct**.
+
+## Shichimi
+
+Shichimi is a 14 year old girl from the school of Ah.
