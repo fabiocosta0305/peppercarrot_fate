@@ -24,8 +24,8 @@ Pepper is a 14 year old orphan girl. She lives in the forests outside of the sma
 * Clever: +3 Good
 * Flashy: +1 Average
 * Forceful: +2 Fair
-* Quick: +1 Fair
-* Sneaky: +2 Fair
+* Quick: +2 Fair
+* Sneaky: +1 Average
 
 ### Stunts:
 
@@ -194,4 +194,32 @@ Coriander is a 14 year girl from the engineering city of Qualicity. She is a wit
 
 ## Shichimi
 
-Shichimi is a 14 year old girl from the school of Ah.
+Shichimi is a 14 year old girl from the school of Ah. She spends most of her days wandering the lands of Hereva. At night she camps under the three setting moons of Ah. She is accompanied by her companion, the two-tailed fox Yuzu. She has a tendency to take things literally which can get her into trouble.
+
+### Aspects:
+
+#### High Concept:
+
+"Wisdom of Ah"
+
+#### Trouble:
+
+"Takes things too literally"
+
+#### Other Aspects:
+
+"Witch of Ah"
+
+#### Approaches:
+
+* Careful: +3 Great
+* Clever: +2 Fair
+* Flashy: +0 Mediocre
+* Forceful: +1 Average
+* Quick: +1 Average
+* Sneaky: +2 Fair
+
+#### Stunts:
+
+* Because I **spend most of my time outdoors** I get +2 when I **Quickly Overcome Obstacle** when **setting up or tearing down camp**.
+* Because I am a **witch of Ah** once per session I can **summon a spirit for guidance**
