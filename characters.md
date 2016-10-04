@@ -34,7 +34,7 @@ Pepper is a 14 year old orphan girl. She lives in the forests outside of the sma
 
 ## Thyme
 
-Thyme is the oldest of the remaining witches of Chaosah.
+Thyme is the oldest of the remaining witches of Chaosah. She leads the Chaosah Witches with fear and domination. 
 
 ### Aspects:
 
