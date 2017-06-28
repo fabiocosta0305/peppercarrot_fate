@@ -6,5 +6,6 @@
 * Combine the open world of Pepper&Carrot with the Fate system
 
 ## Design notes
-* Not yet sure if I want to go with Fate Accelerated or Fate Core (or a combination of the two)
+* Designing this with Fate Accelerated in mind.
 * Need to come up with scenarios of games that I envision folks playing with this game.
+  * Need more than simple errands. Plenty of opportunities for "delivery" types of missions, but not much else.
